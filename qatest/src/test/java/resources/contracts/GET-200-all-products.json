@@ -1,0 +1,32 @@
+{
+  "success": true,
+  "message": "All products have been fetched!",
+  "allProducts": [
+    {
+      "_id": "65fa20eb728d63d1a91e2877",
+      "name": "Product Name",
+      "description": "Product Description",
+      "price": 29.99,
+      "variants": [
+        "65fa20ea728d63d1a91e2872",
+        "65fa20ea728d63d1a91e2873"
+      ],
+      "createdAt": "2024-03-19T23:34:03.051Z",
+      "updatedAt": "2024-03-19T23:34:03.051Z",
+      "__v": 0
+    },
+    {
+      "_id": "65fa2d80728d63d1a91e287f",
+      "name": "Product Name1",
+      "description": "Product Description",
+      "price": 29.99,
+      "variants": [
+        "65fa2d80728d63d1a91e287a",
+        "65fa2d80728d63d1a91e287b"
+      ],
+      "createdAt": "2024-03-20T00:27:44.240Z",
+      "updatedAt": "2024-03-20T00:27:44.240Z",
+      "__v": 0
+    }
+  ]
+}
